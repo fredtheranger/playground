@@ -1,0 +1,5 @@
+boto3
+aws_cdk.core
+aws_cdk.aws_sqs
+aws_cdk.aws_sns
+aws_cdk.aws_sns_subscriptions
